@@ -1,8 +1,18 @@
 stat1
 stat2
 stat3
+<<<<<<< Updated upstream
 stat7
 stat8
 
 stat10
 
+stat 11
+stat22
+
+
+=======
+stat4 
+stat5
+stat6
+>>>>>>> Stashed changes
